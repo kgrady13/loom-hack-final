@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="356" height="83" viewBox="0 0 356 83">
+  <g id="Group_213" data-name="Group 213" transform="translate(-1156 -612)">
+    <rect id="Rectangle_28" data-name="Rectangle 28" width="334" height="59" rx="21" transform="translate(1156 612)" fill="#f0f0f0"/>
+    <text id="_" data-name="——————" transform="translate(1322 652)" fill="#081c15" font-size="28" font-family="Quicksand-Bold, Quicksand" font-weight="700" opacity="0.101"><tspan x="-74.424" y="0">——————</tspan></text>
+    <text id="_2" data-name="——————" transform="translate(1322 691)" fill="#081c15" font-size="17" font-family="Quicksand-Bold, Quicksand" font-weight="700" opacity="0.101"><tspan x="-45.186" y="0">——————</tspan></text>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1469 620)" fill="#e5e7e7" stroke="#fff" stroke-width="4">
+      <circle cx="21.5" cy="21.5" r="21.5" stroke="none"/>
+      <circle cx="21.5" cy="21.5" r="19.5" fill="none"/>
+    </g>
+    <path id="Icon_material-refresh" data-name="Icon material-refresh" d="M17.908,8.052a6.989,6.989,0,1,0,1.814,6.681H17.908a5.231,5.231,0,1,1-4.927-6.986A5.154,5.154,0,0,1,16.662,9.3l-2.808,2.812h6.1V6Z" transform="translate(1477.776 628.514)" fill="#727373" opacity="0.5"/>
+  </g>
+</svg>
